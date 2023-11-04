@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/lab2.iml" filepath="$PROJECT_DIR$/lab2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/task18/task18.iml" filepath="$PROJECT_DIR$/task18/task18.iml" />
+      <module fileurl="file://$PROJECT_DIR$/task19/task19.iml" filepath="$PROJECT_DIR$/task19/task19.iml" />
+      <module fileurl="file://$PROJECT_DIR$/task20/task20.iml" filepath="$PROJECT_DIR$/task20/task20.iml" />
+      <module fileurl="file://$PROJECT_DIR$/task21/task21.iml" filepath="$PROJECT_DIR$/task21/task21.iml" />
+      <module fileurl="file://$PROJECT_DIR$/task22/task22.iml" filepath="$PROJECT_DIR$/task22/task22.iml" />
+      <module fileurl="file://$PROJECT_DIR$/task23/task23.iml" filepath="$PROJECT_DIR$/task23/task23.iml" />
+      <module fileurl="file://$PROJECT_DIR$/task24/task24.iml" filepath="$PROJECT_DIR$/task24/task24.iml" />
+    </modules>
+  </component>
+</project>
